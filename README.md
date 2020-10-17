@@ -32,3 +32,5 @@ We have the following examples of Creational Design Patterns:
 Explanation:
 
 In my project I have implemented the following design patterns: Factory, AbstractFactory, Builder and Singleton. As a blueprint I have used the Animal hierarchy. I have gone further to get to the needed level of abstraction. Abstract Factory is implemented with Factory method so using these DP we obtained 2 levels of abstraction.
+
+https://github.com/DAC15/STDM-Laboratories/issues/1#issue-723792594
