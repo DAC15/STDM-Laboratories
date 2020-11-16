@@ -52,7 +52,7 @@ I made a IVaccine interface that is implemented by 2 classes AnimalVaccine and A
 In AnimalVaccine I have just one method that validates the reservation of the vaccine.
 The functionality is implemented in AnimalVaccineProxy, in the method vaccinate
 
-Conclusion and screenshots:
+Conclusions:
 
 In conclusion, the main goal of this laboratory work was to continue the work from the previous lab and add some new functionalities to the system using 
 the Structural Design Patterns . In order to achieve this , I implemented 3 StructuralDP (Facade , Proxy and Adapter) .
